@@ -1,0 +1,222 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.bannerLogo{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	gap: 196px;
+
+	
+}
+
+#companyLogo{
+	width: 124px;
+	height: 47.118675231933594px;
+	top: 41px;
+	left: 16px;
+	margin-top: 41px;
+	margin-left: 16px;
+
+
+	
+}
+
+#navIcon{
+	width: 23px;
+	height: 16.099998474121094px;
+	top: 42px;
+	left: 336px;
+	padding: 0px 0px 0.0000019073486328125px 0px;
+	margin-top: 42px;
+	margin-right: 16px;
+
+}
+
+.midContent{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	
+
+}
+
+#welcomeMessage{
+	color: #353686;
+	text-align: center;
+	font-size: 53.705px;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	width: 270px; 
+	margin-bottom: 18px;
+}
+
+#message{
+	color: #A4A4A4;
+	text-align: center;
+	font-size: 16px;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 221.2%;
+	width: 256px;
+}
+
+
+#getStartedButton{
+	width: 257px;
+	height: 78px;
+	border-radius: 40px;
+	background: #5051DB;
+	margin-bottom: 81px;
+}
+
+#getStarted{
+	color: #FFF;
+	font-size: 16px;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	width: 104.219px; 
+}
+
+#whoWeAre{
+	color: #353686;
+	text-align: center;
+	font-size: 36px;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+	margin-bottom: 13px;
+}
+
+
+#aboutUs{
+	color: #A4A4A4;
+	text-align: center;
+	font-size: 16px;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 221.2%;
+	width: 257px; 
+	margin-bottom: 20px;
+	}
+
+#readMore{
+	color: #A4A4A4;
+	text-align: center;
+	font-size: 16px;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 221.2%;
+	text-decoration: underline;
+	margin-bottom: 32px;
+	
+}
+
+
+.aboutUsCard{
+	display: flex;
+	flex-direction: column;
+	/* justify-content: space-between; */
+	/* gap: 196px; */
+	border-radius: 3.075px;
+	background: #FFF;
+	box-shadow: 6.149252891540527px 6.149252891540527px 92.23880004882812px 0px rgba(80, 81, 219, 0.08);
+	width: 253px;
+	height: 301px;
+	flex-shrink: 0;
+	margin-bottom: 45.5px;
+
+}
+
+.aboutUsCard img{
+	width: 76px;
+	height: 76px;
+	flex-shrink: 0;
+	margin-top: 50px;
+	margin-left: 89px;
+	margin-right: 89px;
+
+}
+
+
+.aboutUsCard span{
+	color: #353686;
+	font-size: 16px;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	width: 82px;
+	height: 24px; 
+	margin-left: 86px;
+	margin-right: 86px;
+
+}
+
+.aboutUsCard p{
+	color: #A4A4A4;
+	text-align: center;
+	font-size: 14px;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 30.746px;
+
+	width: 195.239px;
+	height: 122.985px;
+	flex-shrink: 0;
+	margin-left: 29px;
+	margin-right: 29px;
+	margin-bottom: 26px;
+}
+
+#ellipsis{
+	width: 27.5px;
+	height: 5.5px;
+	flex-shrink: 0;
+}
+
+#curve{
+
+
+	border-radius: 220px;
+	background: #5959FF;
+	position: relative;
+	left: -1118px;
+	width: 1442px;
+	height: 440px;
+	transform: rotate(24.461deg);
+	flex-shrink: 0;
+
+}
+
+
+
+
+#curve span{
+	color: #140101;
+	font-size: 36px;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+	width: 182px; 
+
+	}
+
+
+.companyAttributes{
+
+}
